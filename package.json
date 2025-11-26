@@ -28,5 +28,8 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
-    }
+    },
+    "nbbpm": {
+        "compatibility": "^4.0.0"
+    },
 }
