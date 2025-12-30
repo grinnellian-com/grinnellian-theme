@@ -1,7 +1,8 @@
 {
-    "id": "nodebb-theme-quickstart",
+    "id": "nodebb-theme-grinnellian",
     "name": "My Theme Name",
     "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart",
-    "baseTheme": "nodebb-theme-harmony"
+    "url": "https://github.com/grinnellian-com/grinnellian-theme",
+    "baseTheme": "nodebb-theme-harmony",
+    "templates": "templates"
 }
