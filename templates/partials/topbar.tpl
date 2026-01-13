@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand sticky-top bg-body border-bottom px-3 gap-3" style="z-index: 1020;">
+<nav class="navbar navbar-expand sticky-top bg-body border-bottom px-3 gap-3 d-none d-lg-flex" style="z-index: 1020;">
     <div class="d-flex align-items-center gap-3 flex-grow-1 overflow-hidden">
         <!-- IMPORT partials/breadcrumbs.tpl -->
     </div>

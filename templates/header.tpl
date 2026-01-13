@@ -32,6 +32,9 @@
             <!-- IMPORT partials/topbar.tpl -->
             
 			<div class="container-lg px-md-4 d-flex flex-column gap-3 h-100 py-3 mb-5 mb-lg-0" id="content">
+			<div class="d-lg-none">
+				<!-- IMPORT partials/breadcrumbs.tpl -->
+			</div>
 			<!-- IMPORT partials/noscript/warning.tpl -->
 			<!-- IMPORT partials/noscript/message.tpl -->
 

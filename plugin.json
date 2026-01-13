@@ -40,7 +40,7 @@
 	],
 	"templates": "templates",
 	"modules": {
-		"../admin/plugins/theme-grinnellian.js": "../nodebb-theme-harmony/public/admin.js",
+		"../admin/plugins/theme-grinnellian.js": "public/admin.js",
 		"../client/account/theme.js": "../nodebb-theme-harmony/public/settings.js"
 	},
 	"staticDirs": {
