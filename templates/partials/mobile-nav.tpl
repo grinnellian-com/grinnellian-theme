@@ -4,7 +4,7 @@
 		{{{ if @first }}}
 			<!-- First 4 items shown directly -->
 		{{{ end }}}
-		{{{ if (./index < 4) }}}
+		{{{ if ./showInMobileBottomBar }}}
 		<a class="nav-link navigation-link d-flex flex-column align-items-center p-2 {{{ if ./active }}}active{{{ end }}}" href="{./route}" title="{./title}" {{{ if ./id }}}id="{./id}"{{{ end }}}{{{ if ./targetBlank }}} target="_blank"{{{ end }}}>
 			<span class="position-relative">
 				{{{ if ./iconClass }}}

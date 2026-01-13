@@ -48,6 +48,10 @@
 						[[themes/harmony:settings.chatModals]]
 					</div>
 				</div>
+				<div class="mb-3">
+					<label class="form-label" for="numMobileNavItems">Number of items in Mobile Bottom Bar</label>
+					<input type="number" id="numMobileNavItems" name="numMobileNavItems" class="form-control" placeholder="4" min="1" max="10" />
+				</div>
 			</form>
 		</div>
 
