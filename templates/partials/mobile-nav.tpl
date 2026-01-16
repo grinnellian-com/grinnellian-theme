@@ -18,7 +18,7 @@
 
 		<!-- More Button -->
 		<a class="nav-link navigation-link d-flex flex-column align-items-center p-2" href="#" role="button" data-bs-toggle="offcanvas" data-bs-target="#mobile-nav-offcanvas" aria-controls="mobile-nav-offcanvas">
-			<i class="fa fa-fw fa-xl fa-bars"></i>
+			<i class="fa fa-fw fa-xl fa-ellipsis"></i>
 		</a>
 	</div>
 
@@ -49,7 +49,7 @@
     <!-- Offcanvas for full menu -->
     <div class="offcanvas offcanvas-bottom h-75" tabindex="-1" id="mobile-nav-offcanvas" aria-labelledby="mobile-nav-offcanvas-label">
         <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="mobile-nav-offcanvas-label">[[global:menu]]</h5>
+			<!-- IMPORT partials/header/brand.tpl -->
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
